@@ -31,4 +31,4 @@ The given script automates essential security controls by restricting inbound ne
 * **Remote Admin:** Disabling `WinRM` and `RemoteRegistry` stops remote administrative tools (like PowerShell Remoting) from managing this machine over the network.
 
 
-will write more about this sooonnnnn.
+will write some incident about this soon............ ;)
